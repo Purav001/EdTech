@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kamnajain06/EdTech-Codegen.git
+   git clone https://github.com/Purav001/EdTech.git
    cd EdTech-Codegen
    ```
 
@@ -61,7 +61,6 @@ To run the application locally, follow these steps:
    npm start
    ```
 
-The application should now be running on `https://edtech-codegen-p5hfkhzmx-kamna-jains-projects.vercel.app/`.
 
 ## Live Demo
 
