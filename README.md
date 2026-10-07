@@ -60,14 +60,3 @@ To run the application locally, follow these steps:
    ```bash
    npm start
    ```
-
-
-## Live Demo
-
-You can view a live demo of the application [here](https://edtech-codegen-p5hfkhzmx-kamna-jains-projects.vercel.app/).
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
